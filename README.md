@@ -44,6 +44,7 @@ until end of line.
 ```
 - **Visualization**: Data can be visualized using [Questaal's plbnds tool](https://www.questaal.org/docs/misc/plbnds/) or band-plot.py (included).
 - **Files Included**: `bnds.lda`, `bnds.rpa`, `bnds.bsw` (representing different computational approximations).
+
 | Approximation  | file |
 | -------------  |------|
 | LDA   | bnds.blue |
