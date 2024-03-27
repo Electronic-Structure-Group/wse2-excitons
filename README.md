@@ -45,7 +45,7 @@ until end of line.
 - **Visualization**: Data can be visualized using [Questaal's plbnds tool](https://www.questaal.org/docs/misc/plbnds/) or band-plot.py (included).
 - **Files Included**: `bnds.lda`, `bnds.rpa`, `bnds.bsw` (representing different computational approximations).
  | Approximation  | file |
-| ------------- |:-----:|
+| ------------- |-----|
 | LDA   | bnds.blue |
 | QSGW     | bnds.red |
 | QSGW$\hat$     | bnds.green |
@@ -72,7 +72,7 @@ until end of line.
     
      Then the number of eigenvectors (nw) and length of each eigenvector (lw) will be:.
   
-  $'nw=lw=nkgw1*nkgw2*nkgw3*nv*nc'$
+      nw=lw=nkgw1*nkgw2*nkgw3*nv*nc
 
      Three data sets in w2q0e.h5 file are:
         
