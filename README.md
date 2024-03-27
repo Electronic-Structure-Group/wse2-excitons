@@ -12,7 +12,7 @@ The repository is structured to provide easy access to the data files used in th
   
 | Figure     | agr file |
 | ------------- |-----|
-| Fig. 2      | fig2.ag |
+| Fig. 2      | fig2.agr |
 | Fig. 3      | fig3.agr     |
 | Fig. 4      | fig4.agr     |
 | Fig. 5      | fig5.agr    |
