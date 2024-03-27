@@ -10,7 +10,7 @@ The repository is structured to provide easy access to the data files used in th
 - **Description**: Contains `.agr` for use with [XMGRACE](https://plasma-gate.weizmann.ac.il/Grace/).
 - **Figures Covered**: 2, 3, 4, 5.
 | Figure     | agr file |
-| ------------- |:-----:|
+| ------------- |-----|
 | Fig. 2      | fig2.ag |
 | Fig. 3      | fig3.agr     |
 | Fig. 4      | fig4.agr     |
@@ -20,7 +20,7 @@ The repository is structured to provide easy access to the data files used in th
 - **Description**: Includes vesta file format for visualization with [VESTA](https://jp-minerals.org/vesta/en/).
 - **Figure Covered**: 8, 9. 
 | Exciton label   | vesta file         |
-| --------------- |:------------------:|
+| --------------- | -----------------  |
 | &lambda;= 1,2   | xcfh-w-1and2.xsf   |
 | &lambda;= 3     | xcfh-w-3.xsf       |
 | &lambda;= 4     | xcfh-w-4.xsf       |
