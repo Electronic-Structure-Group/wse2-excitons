@@ -16,16 +16,16 @@ The repository is structured to provide easy access to the data files used in th
 | Fig. 4      | fig4.agr     |
 | Fig. 5      | fig5.agr    |
 
-### 2. xsf Files (Folder: `xsf`)
-- **Description**: Includes zip compressed .xsf files for visualization with [VESTA](https://jp-minerals.org/vesta/en/) or other visualization programs.
+### 2. VESTA Files (Folder: `vesta`)
+- **Description**: Includes vesta file format for visualization with [VESTA](https://jp-minerals.org/vesta/en/).
 - **Figure Covered**: 8, 9. 
-| Exciton label | xsf file |
-| ------------- |:-----:|
-| &lambda;= 1,2   | xcfh-w-1and2.xsf |
-| &lambda;= 3     | xcfh-w-3.xsf |
-| &lambda;= 4     | xcfh-w-4.xsf |
-| &lambda;= 5,6   | xcfh-w-5and6.xsf |
-| &lambda;= 7,8   | xcfh-w-7and8.xsf |
+| Exciton label   | vesta file         |
+| --------------- |:------------------:|
+| &lambda;= 1,2   | xcfh-w-1and2.xsf   |
+| &lambda;= 3     | xcfh-w-3.xsf       |
+| &lambda;= 4     | xcfh-w-4.xsf       |
+| &lambda;= 5,6   | xcfh-w-5and6.xsf   |
+| &lambda;= 7,8   | xcfh-w-7and8.xsf   |
 | &lambda;= 21,22 | xcfh-w-21and22.xsf |
 - **Features**: Enables users to explore the structure and exciton wavefunction data from various angles and at different sections and adjust isosurface values for exciton distributions.
 
