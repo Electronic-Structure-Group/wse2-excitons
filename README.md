@@ -72,7 +72,7 @@ until end of line.
     
      Then the number of eigenvectors (nw) and length of each eigenvector (lw) will be:.
   
-         nw=lw=nkgw1*nkgw2*nkgw3*nv*nc
+  $'nw=lw=nkgw1*nkgw2*nkgw3*nv*nc'$
 
      Three data sets in w2q0e.h5 file are:
         
