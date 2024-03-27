@@ -23,12 +23,12 @@ The repository is structured to provide easy access to the data files used in th
   
 | Exciton label   | vesta file         |
 | --------------- | -----------------  |
-| &lambda;= 1,2   | xcfh-w-1and2.xsf   |
-| &lambda;= 3     | xcfh-w-3.xsf       |
-| &lambda;= 4     | xcfh-w-4.xsf       |
-| &lambda;= 5,6   | xcfh-w-5and6.xsf   |
-| &lambda;= 7,8   | xcfh-w-7and8.xsf   |
-| &lambda;= 21,22 | xcfh-w-21and22.xsf |
+| &lambda;= 1,2   | xcfh-w-1and2.vesta  |
+| &lambda;= 3     | xcfh-w-3.vesta       |
+| &lambda;= 4     | xcfh-w-4.vesta      |
+| &lambda;= 5,6   | xcfh-w-5and6.vesta   |
+| &lambda;= 7,8   | xcfh-w-7and8.vesta   |
+| &lambda;= 21,22 | xcfh-w-21and22.vesta |
 - **Features**: Enables users to explore the structure and exciton wavefunction data from various angles and at different sections and adjust isosurface values for exciton distributions.
 
 ### 3. Band Structure Data (Folder: `bnds`)
