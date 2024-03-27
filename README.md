@@ -9,6 +9,7 @@ The repository is structured to provide easy access to the data files used in th
 ### 1. Grace Files (Folder: `agr`)
 - **Description**: Contains `.agr` for use with [XMGRACE](https://plasma-gate.weizmann.ac.il/Grace/).
 - **Figures Covered**: 2, 3, 4, 5.
+  
 | Figure     | agr file |
 | ------------- |-----|
 | Fig. 2      | fig2.ag |
