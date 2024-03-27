@@ -19,7 +19,8 @@ The repository is structured to provide easy access to the data files used in th
 
 ### 2. VESTA Files (Folder: `vesta`)
 - **Description**: Includes vesta file format for visualization with [VESTA](https://jp-minerals.org/vesta/en/).
-- **Figure Covered**: 8, 9. 
+- **Figure Covered**: 8, 9.
+  
 | Exciton label   | vesta file         |
 | --------------- | -----------------  |
 | &lambda;= 1,2   | xcfh-w-1and2.xsf   |
