@@ -17,8 +17,9 @@ The repository is structured to provide easy access to the data files used in th
 | Fig. 4      | fig4.agr     |
 | Fig. 5      | fig5.agr    |
 
-### 2. VESTA Files (Folder: `vesta`)
-- **Description**: Includes vesta file format for visualization with [VESTA](https://jp-minerals.org/vesta/en/).
+### 2. xsf Files (Folder: `xsf`)
+- _**Note**_: Available upon request. Email at nxd228@case.edu.
+- **Description**: Includes xsf file format for visualization with [VESTA](https://jp-minerals.org/vesta/en/) or other visualization programs.
 - **Figure Covered**: 8, 9.
   
 | Exciton label   | vesta file         |
